@@ -6,12 +6,6 @@
 
 <hr>
 
-<p align="center">
-  <img src="rgb.gif" width="600"/>
-</p>
-
-<hr>
-
 <h3>💡 Overview</h3>
 <p>
 Three potentiometers are read via analog pins A0, A1, and A2.
